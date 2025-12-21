@@ -1,0 +1,42 @@
+box {
+    background-color: #33cc33;
+    color: #121E24;
+    padding: 15px;
+	font-size: 18px;
+    border-radius: 5px;
+}
+
+/*
+The styling of the listbox treeview header buttons, Object:GtkLabel Name:yad-form-flabel
+Does not work yet here, only in GTK Debugger
+*/
+treeview.view header {  
+    background-color: #009900;  
+    color: #FFFFFF;  
+}  
+
+button {
+    background-color: #4CAF50;
+    color: black;
+    font-size: 14px;
+    border-radius: 1px;
+}
+
+
+
+
+/*
+The styling of the dialog label, Object:GtkLabel Name:yad-form-flabel
+*/
+label {
+    font-size: 18px;
+    color: #000099;
+}
+
+/*
+The styling of the text entry, Object:GtkEntry Name:yad-form-entry
+*/
+entry {
+    font-size: 18px;
+    color: #000080;
+}

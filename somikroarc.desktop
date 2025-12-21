@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=somikroarc
+Exec=~/bin/somikroarc.sh -c  %F
+Icon=~/.config/somikro/icons/somikro.png
+Terminal=true
